@@ -1,7 +1,8 @@
 [![][Project Logo]][Website]
 SpoutAPI
 =====
-SpoutAPI is an API for the spout framework. Spout is a plugin for Bukkit-based servers and a Minecraft client mod system that exposes new API for other plugins to utilize, in an attempt to bring the Minecraft Multiplayer experience to parity with the single player modding experience.
+SpoutAPI is an API for the spout framework. Spout is a plugin for Bukkit-based servers and a Minecraft client mod system that exposes new API for other plugins to utilize, in an attempt to bring the Minecraft Multiplayer experience to parity with the single player modding experience.</br>
+***This fork adds modern maven support and fixes import issues for other Beta 1.7.3 / Legacy developers to use.***
 
 
 Copyright &copy; 2011, Afforess <afforess@gmail.com>  
